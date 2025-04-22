@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "goto-links",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "13eb1f1d-1919-41dd-9e85-30429e54088c",
+      "database_name": "goto-links"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
